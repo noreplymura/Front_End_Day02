@@ -1,0 +1,35 @@
+* {
+    background-color: rgba(101, 197, 144, 0.989);
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+}
+p{
+    font-family: Verdana;
+    color: chocolate;
+}
+#para1{
+ text-align: center;
+ color: aqua;
+}
+#para2{
+    color: cornflowerblue;
+}
+.center{
+    text-align: center;
+    color: darkblue;
+}
+p.center{
+    text-align: center;
+    color: blueviolet;
+}
+p.large{
+    font-size: 200%;
+}
+p.large:hover{
+    color: cyan;
+}
+h1:hover{
+    color: fuchsia;
+}
